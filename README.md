@@ -1,2 +1,2 @@
 # BeSBench
-Open Source Security &amp; AI Safety Benchmark.
+Open Source Security &amp; AI Safety Master Benchmark.
