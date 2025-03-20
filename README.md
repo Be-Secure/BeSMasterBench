@@ -34,13 +34,15 @@ BeS Master Bench leverages datasets from the following key open source benchmark
 
 1.  **HarmBench:** Focuses on evaluating the potential for harmful content generation.
 2.  **AILuminate:** Explores the alignment of AI models with human values and safety guidelines.
-3.  **CyBench:** Specifically designed to assess the cybersecurity capabilities and vulnerabilities of LLMs.
-4.  **BaxBench:** A benchmark for evaluating the robustness of models against adversarial attacks and manipulations.
+3.  **CyBench:** A benchmark for evaluating the robustness of models against adversarial attacks and manipulations.
+4.  **CyberSecEval:** Specifically designed to assess the cybersecurity capabilities and vulnerabilities of LLMs.
+
 
 **Domain-Specific Benches:**
 
 1.  **BirdBench:** Focuses on evaluating the model's ability to perform **text-to-SQL translation**.
 2.  **SWEBench:** Focuses on evaluating the model's ability to solve real-world software engineering tasks.
+3.  **BaxBench:** Focus on models ablity to generate secure and correct backend code 
 
 ## Computation of the Open TAVOSS Score
 
