@@ -26,7 +26,7 @@ BeS Master Bench employs a structured taxonomy to categorize the parameters used
     * Performance on scientific reasoning tasks
     * Understanding and generating domain-specific language
 
-## Open Source POI (Points of Interest) for Benchmarking by Category
+## Open Source POI (Projects of Interest) for Benchmarking by Category
 
 BeS Master Bench leverages datasets from the following key open source benchmarks, categorized by their primary focus:
 
