@@ -8,7 +8,7 @@ Aggregation of Datasets and Benchmarking framework provisioned on BeSecure Envir
 Taxonomy of Model Comparison paramaters
 
 1. Interinsic Parameter
-2. Extenisic Parameter
+2. Exterinsic Parameter
 3. Domain specific Parameter
 
 
